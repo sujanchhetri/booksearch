@@ -3,7 +3,7 @@ body {
   background-image: url("../img/bg-book2.jpg");
   background-color: #C0C0C0;
  background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
    height: 100%;
   margin: 0;
