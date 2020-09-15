@@ -1,16 +1,12 @@
-/* css stylesheet for books api PROJECT
-  author: Jorge L. jlvazquez
-  date: 2/24/2019
-*/
-
 body {
   /* background-color: #76a9e0; */
   background-image: url("../img/bg-book2.jpg");
   background-color: #C0C0C0;
- background-repeat: no-repeat;
-  background-attachment: fixed;
+ background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
- 
+   height: 100%;
+  margin: 0;
 }
 .btn{
 color: white;
